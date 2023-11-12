@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jYHG7JYaWjxhWZePsyk6WbDg4PMwbXon2mmp1VCIiCQ=",
+  "Source": "SNAZWebAPI",
+  "BasePath": "_content/SNAZWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
